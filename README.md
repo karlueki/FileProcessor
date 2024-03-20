@@ -1,5 +1,9 @@
 File Processor
 
+**I am still currently studying dockers and containers since in my projects we are deploying the applications in ISS on servers via azure pipelines.  Due to time constraints, i am unable to containerize the web app. I only run the app by clicking the container (Docker Option) on the debug section
+![image](https://github.com/karlueki/FileProcessor/assets/9567997/156b926b-b3ea-4103-8e3c-9f6725ce5a00)
+
+
 Installation
 Clone the repository.
 Api Key is found on the app settings
