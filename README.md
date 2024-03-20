@@ -2,7 +2,7 @@ File Processor
 
 Installation
 Clone the repository.
-Configure the API key in the app settings.
+Api Key is found on the app settings
 
 Authentication
 All endpoints in this controller require API key authentication.
